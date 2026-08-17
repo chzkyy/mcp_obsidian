@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "node",
+      "args": ["d:/Projects/Pribadi/mcp_obsidian/dist/index.js"],
+      "env": {
+        "OBSIDIAN_BASE_URL": "https://127.0.0.1:27124",
+        "OBSIDIAN_API_KEY": "YOUR_LOCAL_REST_API_KEY_HERE",
+        "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+      }
+    }
+  }
+}
