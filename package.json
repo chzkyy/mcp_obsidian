@@ -1,7 +1,7 @@
 {
   "name": "mcp-obsidian",
   "version": "1.0.0",
-  "description": "Model Context Protocol (MCP) server that connects Claude Desktop to Obsidian via the Local REST API plugin.",
+  "description": "MCP server that connects Claude Desktop to Obsidian via the Local REST API plugin.",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
